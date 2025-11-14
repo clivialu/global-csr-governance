@@ -28,7 +28,7 @@ Cultural dimensions — such as collectivism and power distance — influence ho
 | **5** | **Culture shapes sustainability outcomes.** | Identifies that **low power-distance, feminine, individualistic (for EP), restraint, high uncertainty-avoidance and long-term-oriented cultures** consistently advance EP and/or disclosure quality. |
 | **6** | **Big-picture evidence.** Practitioners value generalisability. | Analyses **12,218 firm-years (1,870 firms) across 25 countries (2010-2017)**, giving rare cross-continent insight. |
 
-### Managerial takeaways
+### Managerial Takeaways
 
 * **Split the roles, add an ESG committee, and diversify the board.** These three low-hanging governance levers deliver measurable improvements in both real environmental outcomes and the storytelling around them. 
 * **Leverage sustainability—literally.** Moderate debt levels act as an internal monitor; tying environmental KPIs to capital-raising discipline can sharpen green performance. 
