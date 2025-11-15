@@ -9,7 +9,7 @@ This repository contains supporting materials for the paper *“Corporate Govern
 - **Journal:** *Journal of International Financial Markets, Institutions & Money*, 70 (2021)  
 - **DOI:** [https://doi.org/10.1016/j.intfin.2020.101264](https://doi.org/10.1016/j.intfin.2020.101264)  
 - **Ranking / Impact:** ABDC A · Impact Factor 6.1
-- **Acknowledgement:** SSHRC Insight Development Grant
+- **Acknowledgement:** SSHRC
 
 ## In Plain Language
 
